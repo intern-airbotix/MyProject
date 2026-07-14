@@ -12,8 +12,4 @@ ok now final test case
 
 This is the terminal test
 
-<<<<<<< HEAD
-this is through github icon test 
-=======
 This is switch test for the main branch 
->>>>>>> 627df6a (switch test for main)

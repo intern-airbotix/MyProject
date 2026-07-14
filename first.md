@@ -9,3 +9,6 @@ This is changed from the VS Code at 4:38 july 14
 this is the test case
 
 ok now final test case
+
+This is the terminal test
+
